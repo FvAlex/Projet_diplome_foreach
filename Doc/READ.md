@@ -59,5 +59,6 @@
         - Cela permet à des restaurants d'avoir plus de visibilité
         - C'est un besoin que meme le restaurateur ne connait peut etre pas 
         - Cela permet au client de gagner du temps et peut etre de l'argent mais aussi pour le restaurant
+        - Permet au petit restaurant de s'aligner sur les plus gros 
     
 
